@@ -1,14 +1,15 @@
 # consnake
 
-A Clojure library designed to ... well, that part is up to you.
+A snake game in console written using clojure-lanterna.
 
 ## Usage
 
-FIXME
+lein run
+
+build:
+lein uberjar
 
 ## License
 
-Copyright © 2019 FIXME
+Free to use as you please.
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
